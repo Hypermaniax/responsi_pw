@@ -1,9 +1,9 @@
 <template>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css'>
+
   <section class="hero">
    <div class="container">
     <div class="main-body">
-    
           <div class="row gutters-sm">
             <div class="col-md-4 mb-3">
               <div class="card">
@@ -12,8 +12,8 @@
                     <img src="/assets/Niko.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Niko Agustio</h4>
-                      <p class="text-secondary mb-1">Full Stack Developer Soon</p>
-                      <p class="text-muted font-size-sm">Yogyakarta</p>
+                      <p class="mb-1">Full Stack Developer Soon</p>
+                      <p class=" font-size-sm">Yogyakarta</p>
                       <button class="btn btn-primary">Follow</button>
                       <button class="btn btn-outline-primary">Message</button>
                     </div>
@@ -154,9 +154,6 @@
                   </div>
                 </div>
               </div>
-
-
-
             </div>
           </div>
 
@@ -175,6 +172,7 @@ export default {
 .hero {
   text-align: center;
   padding: 100px 0;
-  background: #f5f5f5;
+  background-color: black;
+  color: #fff;
 }
 </style>

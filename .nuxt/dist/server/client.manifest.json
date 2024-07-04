@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "D:/bljr/Semester 4/responsi/nuxt-individu-main/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js": {
+  "D:/22.11.4727/responsi_pw/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "D:/bljr/Semester 4/responsi/nuxt-individu-main/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js"
+    "file": "D:/22.11.4727/responsi_pw/node_modules/nuxt/dist/app/entry.js"
   }
 }
